@@ -65,7 +65,7 @@ The grouping of steps is obviously exhibited by this outline this flowchart:
 
 <h3>What do I requirement for Java programming?</h3>
 
-To start with, you have to introduce the product for creating and running projects — JDK. From that point onward, design the JDK on your PC, download and introduce one of the IDE (Integrated Development Environment) - this is the climate for programming improvement. The most famous IDE is IntelliJ IDEA. Choices are Eclipse, NetBeans and even customary Notepad. This likewise requires a solid wellspring of great data on java preparing <a href=https://www.gdatamart.com/32150/Top-Reasons-Why-Studying-Java-Is-a-Good-Idea>https://www.gdatamart.com/</a>. 
+To start with, you have to introduce the product for creating and running projects — JDK. From that point onward, design the JDK on your PC, download and introduce one of the IDE (Integrated Development Environment) - this is the climate for programming improvement. The most famous IDE is IntelliJ IDEA. Choices are Eclipse, NetBeans and even customary Notepad. This likewise requires a solid wellspring of great data on java preparing <a href="https://www.gdatamart.com/32150/Top-Reasons-Why-Studying-Java-Is-a-Good-Idea">https://www.gdatamart.com/</a>. 
 
 <h2>Introducing Java on your PC</h2>
 
